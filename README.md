@@ -3,4 +3,4 @@
     生成词云代码存放在ciyun.py和ciyun2.py
     绘制散点图代码存放在drawdata.py和drawdata2.py
     爬取数据存放在news_wtu.xls，
-
+    注意运行程序需提前安装好相关库，如requests，xlwt，jieba，WordCloud，pandas，plotly等
